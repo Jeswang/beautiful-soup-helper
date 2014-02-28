@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['bs_helper.py']
+APP = ['soup_helper.py']
 DATA_FILES = []
 OPTIONS = {'argv_emulation': True}
 
